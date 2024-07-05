@@ -1,0 +1,9 @@
+[ 2024-07-05 12:52:33,936 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-05 12:52:33,939 ] 97 werkzeug - INFO -  * Debugger PIN: 503-782-913
+[ 2024-07-05 12:56:43,136 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 12:56:43] "GET / HTTP/1.1" 200 -
+[ 2024-07-05 12:56:43,207 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 12:56:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-05 12:57:11,590 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 12:57:11] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2024-07-05 12:58:30,281 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 12:58:30] "GET / HTTP/1.1" 200 -
+[ 2024-07-05 12:58:39,377 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 12:58:39] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2024-07-05 12:58:46,651 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 12:58:46] "[33mGET /predictdata HTTP/1.1[0m" 404 -
+[ 2024-07-05 13:00:51,636 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\amitk\\documents\\ml projects\\diamondpriceprediction\\application.py', reloading

@@ -1,0 +1,5 @@
+[ 2024-07-05 13:01:28,314 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-05 13:01:28,319 ] 97 werkzeug - INFO -  * Debugger PIN: 503-782-913
+[ 2024-07-05 13:01:35,788 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 13:01:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-07-05 13:02:53,607 ] 66 root - INFO - Dataframe Gathered
+[ 2024-07-05 13:02:54,034 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Jul/2024 13:02:54] "POST /predict HTTP/1.1" 200 -
