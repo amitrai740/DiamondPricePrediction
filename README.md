@@ -79,8 +79,7 @@ Before using this project, ensure you have the following prerequisites in place:
 ##### Step 1 - Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Adi3042/Diamond-Price-Prediction.git
-cd Diamond-Price-Prediction
+git clone https://github.com/amitrai740/DiamondPricePrediction.git
 ```
 
 ##### Step 2 - Create a conda environment after opening the repository
